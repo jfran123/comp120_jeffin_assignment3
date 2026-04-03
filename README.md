@@ -17,7 +17,6 @@ A simple, clean task manager application to help you organize, prioritize, and t
 
 ## Demo
 
-![TaskFlow Screenshot](screenshots/dashboard.png)
 
 > Live demo: [https://taskflow-demo.netlify.app](https://taskflow-demo.netlify.app)
 
