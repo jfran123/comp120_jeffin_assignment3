@@ -127,9 +127,9 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 ## Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: yourname@example.com
+- GitHub: [@jeffin](https://github.com/jfran123)
+- Email: jeffin@example.com
 
 ---
 
-*COMP120 — Version Control Assignment | comp120_yourname_versioncontrol*
+*COMP120 — Version Control Assignment | comp120_jeffin_versioncontrol*
