@@ -76,3 +76,60 @@ A simple, clean task manager application to help you organize, prioritize, and t
 | `/` | Focus search bar |
 
 ## Project Structure
+comp120_yourname_assignment3/
+├── src/
+│   ├── components/        # UI components
+│   │   ├── TaskCard.js
+│   │   ├── TaskForm.js
+│   │   └── Sidebar.js
+│   ├── pages/             # Application pages
+│   │   ├── Dashboard.js
+│   │   └── Settings.js
+│   ├── utils/             # Helper functions
+│   │   ├── storage.js
+│   │   └── dateHelpers.js
+│   └── App.js
+├── public/
+│   └── index.html
+├── tests/
+│   └── taskManager.test.js
+├── .gitignore
+├── package.json
+└── README.md
+## Contributing
+
+Contributions are welcome! Please follow these steps:
+
+1. Fork the repository
+2. Create a new branch: `git checkout -b feature/your-feature-name`
+3. Make your changes and commit: `git commit -m "Add: your feature description"`
+4. Push to your branch: `git push origin feature/your-feature-name`
+5. Open a Pull Request
+
+Please make sure your code passes all existing tests before submitting.
+
+## Running Tests
+```bash
+npm test
+```
+
+## Built With
+
+- [React](https://react.dev/) — Frontend framework
+- [localStorage API](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage) — Data persistence
+- [date-fns](https://date-fns.org/) — Date formatting and utilities
+- [Tailwind CSS](https://tailwindcss.com/) — Styling
+
+## License
+
+This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
+
+## Author
+
+**Your Name**
+- GitHub: [@yourusername](https://github.com/yourusername)
+- Email: yourname@example.com
+
+---
+
+*COMP120 — Version Control Assignment | comp120_yourname_versioncontrol*
